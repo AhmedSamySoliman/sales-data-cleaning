@@ -16,5 +16,7 @@ A Python (pandas) notebook that cleans a messy sales Excel file.
 - `cleaned_data.ipynb`: the cleaning code
 - `cleaned_sales.xlsx`: the cleaned output
 
+Note: the input Excel file is not included. Place your own sales file next to the notebook and update the file name in the first cell.
+
 ## Tools
 Python, pandas, openpyxl
